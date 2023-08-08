@@ -1,0 +1,262 @@
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Aula\source\repos\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\Google.Protobuf.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\MySql.Data.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Buffers.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Memory.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\ZstdNet.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\Google.Protobuf.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\Google.Protobuf.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\MySql.Data.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Buffers.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Memory.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacionA\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CopyComplete
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\ZstdNet.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CopyComplete
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.consultaUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\ZstdNet.dll
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.pdb
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.consultaUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CopyComplete
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.bajaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.bajaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioAdmin.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioNormal.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.crearPermiso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.menuGestionDePermiso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.asignarPermisos.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\ZstdNet.dll
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.pdb
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.asignarPermisos.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.crearPermiso.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.menuGestionDePermiso.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.bajaDeUsuario.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.consultaUsuario.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioAdmin.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioNormal.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CopyComplete
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\slanzetti\Desktop\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.menuRecurso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.solicitarLicencia.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.aprobarLicencia.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2.mdf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\BDD2_log.ldf
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe.config
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\ZstdNet.dll
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\Google.Protobuf.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\MySql.Data.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Buffers.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Memory.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.AssemblyReference.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.asignarPermisos.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.crearPermiso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDePermiso.menuGestionDePermiso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.aprobarLicencia.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.menuRecurso.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.solicitarLicencia.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.altaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.bajaDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.consultaUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuGestionUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.menuUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioAdmin.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeUsuarios.modificarUsuarioNormal.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Login.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.Properties.Resources.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.recuperarPassword.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.GenerateResource.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.csproj.CopyComplete
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.exe
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.pdb
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeRecurso.verLicencia.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeInforme.informeDeUsuario.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeInforme.menuInforme.resources
+C:\Users\Seba\Desktop\ISA 3AÑO\C#\TPProgramacion2.0\TPProgramacion2.0\TPProgramacionA\obj\Debug\TPProgramacionA.GestionDeInforme.informeLicencia.resources
